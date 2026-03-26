@@ -12,23 +12,7 @@
 
 ---
 
-## 🌊 About Me
 
-```java
-public class PranayPatle {
-
-    String name     = "Pranay Patle";
-    String location = "Bhopal, MP, India";
-    String degree   = "B.Tech CSE — CGPA 8.31";
-    String college  = "Lakshmi Narain College of Technology Excellence";
-
-    String[] currentlyLearning = {"System Design", "Microservices", "Docker"};
-    String[] lookingFor        = {"Backend Developer", "Full Stack Developer"};
-
-    String email    = "pranaypatle36@gmail.com";
-    String portfolio = "https://portfolio-pp-topaz.vercel.app";
-}
-```
 
 ---
 
